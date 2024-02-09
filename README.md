@@ -9,13 +9,13 @@
       1. Tipos de micrófonos y altavoces
       2. Principio de funcionamiento
    3. Comparación entre Micrófonos y Altavoces
-         A. Similitudes y diferencias en el funcionamiento
-         B. Relación entre la calidad de entrada y salida de audio
-         C. Factores que influyen en la elección de micrófonos y altavoces <!-- HACER QUE PARTICIPEN-->
+         1. Similitudes y diferencias en el funcionamiento
+         2. Relación entre la calidad de entrada y salida de audio
+         3. Factores que influyen en la elección de micrófonos y altavoces <!-- HACER QUE PARTICIPEN-->
    4. Avances Tecnológicos y Futuro de los Dispositivos de Entrada y Salida
-         A. Tendencias en el diseño y la fabricación
-         B. Innovaciones en la calidad de sonido
-         C. Impacto de la inteligencia artificial y el machine learning <!-- HACER QUE PARTICIPEN-->
+         1. Tendencias en el diseño y la fabricación
+         2. Innovaciones en la calidad de sonido
+         3. Impacto de la inteligencia artificial y el machine learning <!-- HACER QUE PARTICIPEN-->
 
  
 
