@@ -4,10 +4,12 @@
 
 ## Indice
  **Introduccion**
-   1. Riesgos laborales 
-   2. Prevención de riesgos desde un punto de vista informático.
-   3. h
+   1. Definición de dispositivos de entrada y salida 
+   2. Importancia de los altavoces y micrófonos en la informática
+      1. Tipos de micrófonos
+      2. Principio de funcionamiento
    4. h
+   5. h
 
 ## Referencias
 
