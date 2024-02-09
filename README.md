@@ -1,6 +1,5 @@
 # FHW-Sonido
-
-[portada](https://www.pinterest.es/pin/1055599901665679/)
+![portada](https://www.pinterest.es/pin/1055599901665679/)
 
 ## Indice
  **Introduccion**
