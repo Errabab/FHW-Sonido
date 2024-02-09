@@ -5,11 +5,19 @@
 ## Indice
  **Introduccion**
    1. Definición de dispositivos de entrada y salida 
-   2. Importancia de los altavoces y micrófonos en la informática
-      1. Tipos de micrófonos
+   2. Importancia de los altavoces y micrófonos en la informática <!-- HACER QUE PARTICIPEN-->
+      1. Tipos de micrófonos y altavoces
       2. Principio de funcionamiento
-   4. h
-   5. h
+   3. Comparación entre Micrófonos y Altavoces
+         A. Similitudes y diferencias en el funcionamiento
+         B. Relación entre la calidad de entrada y salida de audio
+         C. Factores que influyen en la elección de micrófonos y altavoces <!-- HACER QUE PARTICIPEN-->
+   4. Avances Tecnológicos y Futuro de los Dispositivos de Entrada y Salida
+         A. Tendencias en el diseño y la fabricación
+         B. Innovaciones en la calidad de sonido
+         C. Impacto de la inteligencia artificial y el machine learning <!-- HACER QUE PARTICIPEN-->
+
+ 
 
 ## Referencias
 
