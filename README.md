@@ -20,7 +20,7 @@
  
 
 ## Referencias
-
+   * chat gpt
 ## Autores 
 
   * Errabab Salec Ahriem
