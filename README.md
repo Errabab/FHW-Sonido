@@ -20,7 +20,6 @@
 
 ## Referencias
    * chat gpt
-   * MÁSMÓVIL
    * ASILODIGITAL
 ## Autores 
 
