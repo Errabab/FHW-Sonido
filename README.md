@@ -20,7 +20,7 @@
 
 ## Referencias
    * chat gpt
-   * MASMOVIL
+   * MÁSMÓVIL
 ## Autores 
 
   * Errabab Salec Ahriem
