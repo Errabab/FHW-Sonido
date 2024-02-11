@@ -1,5 +1,5 @@
 # FHW-Sonido
-![portada](portada.jpeg)
+![portada](img/portada.jpeg)
 
 ## Indice
  **Introduccion**
@@ -12,15 +12,14 @@
          2. Relación entre la calidad de entrada y salida de audio
          3. Factores que influyen en la elección de micrófonos y altavoces <!-- HACER QUE PARTICIPEN-->
    4. Avances Tecnológicos y Futuro de los Dispositivos de Entrada y Salida
-         1. Tendencias en el diseño y la fabricación
-         2. Innovaciones en la calidad de sonido
-         3. Impacto de la inteligencia artificial y el machine learning <!-- HACER QUE PARTICIPEN-->
+         1. [Tendencias en el diseño y la fabricación](4.1.md)
+         2. [Innovaciones en la calidad de sonido](4.2.md)
+         3. [Impacto de la inteligencia artificial y el machine learning](4.3.md) <!-- HACER QUE PARTICIPEN-->
 
  
 
 ## Referencias
    * chat gpt
-   * ASILODIGITAL
 ## Autores 
 
   * Errabab Salec Ahriem
