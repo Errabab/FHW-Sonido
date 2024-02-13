@@ -3,7 +3,7 @@
 
 ## Indice
  **Introduccion**
-   1. Definición de dispositivos de entrada y salida 
+   1. [Definición de dispositivos de entrada y salida](1.md)
    2. Importancia de los altavoces y micrófonos en la informática <!-- HACER QUE PARTICIPEN-->
       1. Tipos de micrófonos y altavoces
       2. Principio de funcionamiento
