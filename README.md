@@ -15,7 +15,7 @@
  
 
 ## Referencias
-   **- Información con chat gpt** 
+   **- Información con chat gpt** <br>
    **- Imágenes generadas con bing**
 ## Autores 
 
