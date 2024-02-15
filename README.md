@@ -1,5 +1,5 @@
 # FHW-Sonido
-![portada](img/portada.jpeg
+![portada](img/portada.jpeg)
 
 ## Indice
  **Introduccion**
