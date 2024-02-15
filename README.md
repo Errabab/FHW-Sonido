@@ -9,7 +9,7 @@
       2. Principio de funcionamiento
    3. [Comparación entre Micrófonos y Altavoces](3)
     
-   4. [Avances Tecnológicos y Futuro de los Dispositivos de Entrada y Salida]
+   4. [Avances Tecnológicos y Futuro de los Dispositivos de Entrada y Salida](4.md)
          1. [Tendencias en el diseño y la fabricación](4.1.md)
          2. [Innovaciones en la calidad de sonido](4.2.md)
          3. [Impacto de la inteligencia artificial y el machine learning](4.3.md) <!-- HACER QUE PARTICIPEN-->
