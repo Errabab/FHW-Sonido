@@ -2,14 +2,12 @@
 ![portada](img/portada3.jpeg)
 
 ## Indice
- **Introduccion**
-   1. [Definición de dispositivos de entrada y salida] 
-   2. [Importancia de los altavoces y micrófonos en la informática] <!-- HACER QUE PARTICIPEN-->
-      1. Tipos de micrófonos y altavoces
-      2. Principio de funcionamiento
-   3. [Comparación entre Micrófonos y Altavoces](3.md)
+
+   1. [Información](1.md)
+      <!-- HACER QUE PARTICIPEN-->
+   2. [Comparación entre Micrófonos y Altavoces](3.md)
     
-   4. [Avances Tecnológicos y Futuro de los Dispositivos de Entrada y Salida](4.md)
+   3. [Avances Tecnológicos y Futuro de los Dispositivos de Entrada y Salida](4.md)
 
 
  
