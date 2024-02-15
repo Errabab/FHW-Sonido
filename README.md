@@ -13,8 +13,8 @@
  
 
 ## Referencias
-   **- Información con chat gpt** <br>
-   **- Imágenes generadas con bing**
+   *Chat gpt <br>
+   *Bing
 ## Autores 
 
   * Errabab Salec Ahriem
