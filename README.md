@@ -7,7 +7,7 @@
    2. [Importancia de los altavoces y micrófonos en la informática] <!-- HACER QUE PARTICIPEN-->
       1. Tipos de micrófonos y altavoces
       2. Principio de funcionamiento
-   3. [Comparación entre Micrófonos y Altavoces]
+   3. [Comparación entre Micrófonos y Altavoces](3)
          1. [Similitudes y diferencias en el funcionamiento](3.1.md)
          2. [Relación entre la calidad de entrada y salida de audio](3.2.md)
          3. [Factores que influyen en la elección de micrófonos y altavoces](3.3.md) <!-- HACER QUE PARTICIPEN-->
